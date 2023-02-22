@@ -14,5 +14,6 @@ This repository contains all the information about Sign-off Timing Analysis – 
 - Day - 5 : Clock groups, Clock properties, Timing exceptions, Multiple modes
 
 ## Workshop Outcome
-- Basics of STA 
+- Static Timing Analysis
 - Handson on OpenSTA
+
