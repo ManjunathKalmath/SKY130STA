@@ -30,5 +30,10 @@ It is mainly used to pass parasitic information from one tool to another
 
 Understanding SPEF parsing :
 
+![pic1](https://user-images.githubusercontent.com/48850794/220637405-b29c9448-f98b-4434-bcb4-216e18a65d20.png)
+
+Understanding Timing Reports :
+
+![pic1](https://user-images.githubusercontent.com/48850794/220637629-5f2454d3-58e2-4a61-949c-d9f1b700e3cb.png)
 
 
