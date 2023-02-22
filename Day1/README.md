@@ -9,5 +9,7 @@ OpenSTA is a gate level static timing verifier. As a stand-alone executable it c
 - SDF delay annotation
 - SPEF parasitics
 
-Inputs to OpenSTA
-
+Inputs to OpenSTA <br />
+- Design (Netlist format, Usually provided in Verilog using read_verilog command)
+- Standard Cells (Provided in .lib format using read_liberty command)
+- Timing constraints (Provided in sdc format using read_sdc command)
