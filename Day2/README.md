@@ -16,4 +16,11 @@ The .lib file contains timing models
 
 ## Lab2
 
+![pic1](https://user-images.githubusercontent.com/48850794/220634597-1db260cc-d376-4598-a005-b16adc6dd6e2.png)
+
+![pic1](https://user-images.githubusercontent.com/48850794/220634675-e102391e-5f87-40e4-8ee2-dd6f9296f85e.png)
+
+![pic1](https://user-images.githubusercontent.com/48850794/220634757-359e3fb5-5d96-41e2-899f-8129d5527957.png)
+
+
 
