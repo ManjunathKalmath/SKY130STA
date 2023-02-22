@@ -25,4 +25,3 @@ Inputs to OpenSTA : <br />
 ![pic4](https://user-images.githubusercontent.com/48850794/220631382-dac02627-2daa-4ec9-b3a3-0a4948c97d2a.png)
 
 ![pic5](https://user-images.githubusercontent.com/48850794/220631685-6aabf2d3-f1e8-4a19-be5b-55006bb82171.png)
-
