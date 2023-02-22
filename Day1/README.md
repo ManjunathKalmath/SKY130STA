@@ -16,3 +16,4 @@ Inputs to OpenSTA : <br />
 
 ## Lab1
 
+![pic1](https://user-images.githubusercontent.com/48850794/220630845-cbdedbef-413a-42e2-8ec4-b193da040a1a.png)
