@@ -14,5 +14,5 @@ Inputs to OpenSTA : <br />
 - Standard Cells (Provided in .lib format using read_liberty command)
 - Timing constraints (Provided in sdc format using read_sdc command)
 
-# Lab1
+## Lab1
 
